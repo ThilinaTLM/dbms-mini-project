@@ -1,0 +1,4 @@
+#Sun Jan 31 23:54:33 IST 2021
+base.0=/mnt/LocalDisk1/Programming/SimpleExpenseManager/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
